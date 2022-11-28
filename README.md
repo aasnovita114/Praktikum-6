@@ -1,8 +1,12 @@
 # praktikum-6
 Nama : Aas novitasari
+
 NIM : 312210167
+
 Kelas : TI.22.A1
+
 Latihan
+
 Buat Dictionary daftar kontak
 
 Nama sebagai key, dan nomor sebagai value
@@ -151,7 +155,27 @@ Hasil Run
 
 
 Penjelasan Program :
-Buatlah Dictionary berupa Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS.
-Lalu
+
+1   Buatlah Dictionary berupa Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS
+
+2   Lalu inputlah menu pilihan berupa Lihat, Tambah, Ubah, Hapus, Cari, Keluar
+
+3   Gunakanlah perulangan for, dengan perintah for i in range(len(Nama)):. Fungsi "len" ialah untuk mengembalikan panjang (jumlah anggota) dari suatu objek.
+
+4   Lalu inputlah Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS
+
+5   Lalu mencari nilai akhir dengan perhitungan nilai tugas 30%, nilai uts 35% dan uas 35% , dengan perintah float
+
+6   Jika ingin melihat dictionary data ketik "L", jika ingin menambah data ketik "T", jika ingin mengubah data ketik "U", jika ingin menghapus ketik "H", jika ingin
+mencari data ketik "C" dan jika ingin keluar dari data ketik "K"
+
+7   Lalu cetak dengan perintah print ("Pilih menu yang tersedia")
+
+8   Selesai
+
 #flowchart
+
 ![image](https://user-images.githubusercontent.com/116045324/204203436-7800e2b2-71bd-4cba-b6de-e6c66397620b.png)
+
+
+Terimakasih
