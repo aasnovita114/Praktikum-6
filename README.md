@@ -174,8 +174,8 @@ mencari data ketik "C" dan jika ingin keluar dari data ketik "K"
 8   Selesai
 
 #flowchart
+![image](https://user-images.githubusercontent.com/116045324/204405828-f3de776c-99b1-4691-b4b9-59dd54a1a1c8.png)
 
-![image](https://user-images.githubusercontent.com/116045324/204203436-7800e2b2-71bd-4cba-b6de-e6c66397620b.png)
 
 
 Terimakasih
